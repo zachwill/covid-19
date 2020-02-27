@@ -12,3 +12,5 @@ My PyMC3 model based on [this Hacker News comment][hn]:
 [hn]: https://news.ycombinator.com/item?id=22433359
 
 [wiki]: https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome
+
+![PyMC3 Output: 16% mortality rate](output.png)
