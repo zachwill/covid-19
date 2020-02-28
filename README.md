@@ -9,6 +9,11 @@ My PyMC3 model based on [this Hacker News comment][hn]:
 > we are closer to 7.8% than 2% mortality, which is closer to [the final mortality rate
 > of SARS][wiki] of 9.6%.
 
+This model suggests we could be closer to an __11%__ death-to-recovery rate based on
+the available small datasets.
+
+__Note__: data from China and Iran were not used.
+
 [hn]: https://news.ycombinator.com/item?id=22433359
 
 [wiki]: https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome
