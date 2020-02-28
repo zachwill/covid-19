@@ -9,7 +9,7 @@ My PyMC3 model based on [this Hacker News comment][hn]:
 > we are closer to 7.8% than 2% mortality, which is closer to [the final mortality rate of SARS][wiki]
 > of 9.6%.
 
-This model suggests we could be closer to a __12% death-to-recovery rate__ based on
+This model suggests we could be closer to a __13% death-to-recovery rate__ based on
 [the available small datasets][outbreak].
 
 __Note__: data from China and Iran were not used.
@@ -20,4 +20,4 @@ __Note__: data from China and Iran were not used.
 
 [outbreak]: https://outbreak.cc
 
-![PyMC3 Output: 16% mortality rate](output.png)
+![PyMC3 Output: 13% mortality rate](output.png)
